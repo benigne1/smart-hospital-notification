@@ -21,5 +21,4 @@ A Spring Boot application that shows IoC, @Primary, @Qualifier and @Value.
 - `@Value` reads `hospital.name` (default: "General City Hospital") and `HOSPITAL_API_SECRET`
 
 ## Security
-- The real `.env` file is listed in `.gitignore` and is never committed
-- Only `.env.example` (a template with fake values) is on GitHub
+- The real `.env` file is listed in `.gitignore` and is never commit
